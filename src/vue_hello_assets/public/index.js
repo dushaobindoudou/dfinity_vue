@@ -1,4 +1,4 @@
-import canisterAssets from "ic:canisters/vue_example_dfx_assets";
+import canisterAssets from "ic:canisters/vue_hello_assets";
 import App from "./App/index.vue";
 import Vue from "vue";
 
